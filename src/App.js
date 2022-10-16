@@ -1,4 +1,4 @@
-import logo from './Png7.png';
+import logo from './Png5.png';
 import './App.css';
 
 
